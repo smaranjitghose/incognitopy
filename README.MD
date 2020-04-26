@@ -75,7 +75,7 @@ Here you go:
 
 ## Always grateful 🙏 to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) for his invaluable help towards my Computer Vision Journey till now and henceforth
 
-<p align="center"><img width=35% src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif"></p>
+<p align="center"><img width=50% src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif"></p>
 
 
 <h2 align="center"><b> License 📝</b></h2> 
