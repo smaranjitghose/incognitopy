@@ -84,4 +84,4 @@ Here you go:
 
 [MIT License](https://github.com/smaranjitghose/IncognitoPy/blob/master/LICENSE)
 
-# **Crafted with ❤ by Smaranjit Ghose**
+<h1 align="center"><b>Crafted with ❤ by Smaranjit Ghose </b></h1>
