@@ -37,7 +37,7 @@ Don't believe me? 🤨
 
 Here's what the spell did to my picture:
 
-|Normal Smaran|Icognito Smaran|
+|Normal Smaran|Incognito Smaran|
 |-----|-----|
 |![Normal Smaran](https://github.com/smaranjitghose/incognitopy/blob/master/assets/input_images/smarno.png)|![Incognito Smaran](https://github.com/smaranjitghose/incognitopy/blob/master/assets/ouput_images/anonymized_smarno.png)
 
