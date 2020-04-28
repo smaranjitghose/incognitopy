@@ -67,6 +67,7 @@ Here you go:
 
 <h2 align="center"><b> Further Work: 🏗 </b></h2>
 
+- Use Tkinter/PyQt5 for building a GUI
 - Create a script for going incognito in real time using your webcam 
 - Use other Deep Learning based face detection models🤓 to get better results
 - Use object detection models to detect other objects in the proximity of the face and replace the covered page with last blurred location of the face
